@@ -1,0 +1,13 @@
+brainaccess
+click
+matplotlib
+mne
+numpy
+pandas
+Pillow
+PsychoPy
+psychtoolbox
+PySimpleGUI
+PyYAML
+scipy
+wxPython
